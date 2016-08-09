@@ -2,7 +2,6 @@
 
 class A 
 {
-
 	public function arrCount($k)
 	{
 		$h = count($k);
@@ -41,8 +40,6 @@ class A
 			
 		}
 		echo "second sum : ".$temp."<br>";
-		
-		
 	}
 
 	public function printArray($ar)
@@ -60,8 +57,6 @@ class A
 		}
 		echo "<br>";
 	}
-
-
 }
 
 $m = new A;
