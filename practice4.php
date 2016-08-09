@@ -14,9 +14,9 @@ class A
 		$getOddEven = fmod($uu,2); 
 	
 		if($getOddEven==0) 
-			echo "genap"; 
+			echo "even"; 
 		else 
-			echo "ganjil"; 
+			echo "odd"; 
 	} 
 } 
 
