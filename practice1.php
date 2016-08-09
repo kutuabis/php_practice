@@ -21,5 +21,4 @@ class A
 
 $myA = new A; 
 $c = $myA->b("cake nuts grandma"); 
-
 ?>
